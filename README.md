@@ -12,3 +12,5 @@ Art Director @ Flyht Lab
 A4B! [anime4breakfast!]
 - 
 ![Hodge CC](/assets/images/Hodge-CC.jpg)
+![Yogi CC](/assets/image/Yogi-CC.jpg.jpg)
+![Rocco CC](/assets/images/Rocco-CC.img)
