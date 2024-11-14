@@ -18,7 +18,7 @@ Anime4Breakfast! doesn’t just want you to watch; it wants you to live anime—
 
 ![a4b logo2](/assets/images/a4b-logo2.png)
 
-### 
+###### Battle Park High [Game Development] 
 
 ![Hodge CC](/assets/images/Hodge-CC.jpg)
 
