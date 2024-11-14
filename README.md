@@ -11,3 +11,4 @@ Art Director @ Flyht Lab
 ### Projects
 A4B! [anime4breakfast!]
 - 
+(/docs/assets/Hodge-CC.jpg)
