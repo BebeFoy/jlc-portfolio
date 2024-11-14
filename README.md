@@ -1,5 +1,4 @@
-# Fine Artist
-
+# Creative Works
 ### Education
 Fine Art, BA
 
