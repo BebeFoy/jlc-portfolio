@@ -4,7 +4,7 @@ Fine Art, BA
 
 ### Projects
  
- #### A4B! [anime4breakfast!]
+ #### A4B [anime4breakfast!]
                              
 Anime4Breakfast! (a4b!) is a dynamic cultural space that celebrates the seamless blend of anime and daily life, turning each morning into an electrifying ritual for enthusiasts and casual fans alike. At its core, a4b! aims to invigorate the day’s start with the rich storytelling, vivid art, and diverse narratives that anime offers—a medium that inspires and captivates millions around the world.
 
