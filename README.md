@@ -35,7 +35,7 @@ Whether fueled by the quiet solitude of midnight musings or the energetic exchan
 
 ![Sweet_Sweetblacks_Baadasssss_Song](assets/fonts/img/Sweet_Sweetblacks_Baadasssss_Song.jpg)
 
-*Sweet sweetblack's Badass Song* Collection | Sepia 
+*Sweet sweetblack's Badass Song* | Sepia 
 
 1. The ideal is a peaceful depiction of (Kodak Black) as Sweet back from Melvin than people's movie (Sweetsweet back's badassssong) I always had a thing for a black exploitation films, and I thought this was a perfect match given the way that Kodak Black grew up and how sweet back grew up in the film. They were almost seamless.
 
