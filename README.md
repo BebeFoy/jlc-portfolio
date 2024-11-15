@@ -30,7 +30,7 @@ To use the Minimal theme:
     gem "github-pages", group: :jekyll_plugins
     ```
 
-## Case Study Midnight Kids Academy - MDNKA
+## Case Study - Midnight Kids Academy - MDNKA
 
 Midnight Kids Academy is a vibrant, multifaceted initiative dedicated to cultivating creativity, resilience, and empowerment within a community of ambitious individuals. Grounded in the belief that inspiration often awakens when the world sleeps, the academy champions those who unlock their full potential during the twilight hours—dreamers, passionate strivers, and innovative thinkers who come alive when the world is at rest.
 
