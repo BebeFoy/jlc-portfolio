@@ -1,4 +1,4 @@
-# Artworks -
+Jill# Artworks -
 
 *This is a portfolio of my artworks in the form of [Case Studies] the works you will see here may very between Graphics Design, Digital Design, Ux/Ui, Charcter Develoopment, and Product development. Please take the time to the review the works that I've shown here, Some are apart of projects I worked on and others are from my own curiosity, The projects are compartmentalized the help the the viewer to understand the wide range of works in my porfilio. I will be updating this priodicaly.*
 
@@ -43,8 +43,9 @@ Community lies at the core of Midnight Kids Academy. This isn’t just a learnin
 Whether fueled by the quiet solitude of midnight musings or the energetic exchange of late-night collaborations, Midnight Kids Academy serves as a guiding light for those eager to explore new frontiers. Here, creativity knows no bounds, innovation never ceases, and the night becomes a canvas for shaping the future.
 
 ![Sweet_Sweetblacks_Baadasssss_Song](assets/fonts/img/Sweet_Sweetblacks_Baadasssss_Song.jpg)
-    
-    ###Title: Sweet sweetblacks Badass Song
+
+
+#### Title: Sweet sweetblacks Badass Song
 1. ideal is peaceful depict Kodak Black as Sweet back from Melvin than people's movie *(Sweetsweet back's badassssong)*  I always had a thing for a black exploitation films, and I thought this was a perfect match given the way that Kodak Black grew up and how sweet back grew up in the film. They were almost seamless.
 
 
