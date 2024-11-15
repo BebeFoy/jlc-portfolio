@@ -14,6 +14,8 @@ More than a platform, a4b! is a movement that encourages new ways of connecting 
 Anime4Breakfast! doesn’t just want you to watch; it wants you to live anime—to carry the lessons, humor, and dreams from dawn to dusk. Because with a4b!, each sunrise isn’t just the start of a day—it’s the start of a new adventure.
 To use the Minimal theme:
 
+! [I4I.png](assets/fonts/img/I4I.png)
+
 1. Add the following to your site's `_config.yml`:
 
     ```yml
