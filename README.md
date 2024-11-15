@@ -1,6 +1,6 @@
 # Creative Works
 ### Education
-Fine Art, BA
+Fine Art, 
 
 ### Projects
  
