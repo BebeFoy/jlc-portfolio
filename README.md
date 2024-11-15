@@ -42,6 +42,7 @@ Community lies at the core of Midnight Kids Academy. This isn’t just a learnin
 
 Whether fueled by the quiet solitude of midnight musings or the energetic exchange of late-night collaborations, Midnight Kids Academy serves as a guiding light for those eager to explore new frontiers. Here, creativity knows no bounds, innovation never ceases, and the night becomes a canvas for shaping the future.
 
+![Sweet Sweetblacks Baadasssss Song](assets/fonts/img/Sweet Sweetblacks Baadasssss Song.jpg)
 
 ### Configuration variables
 
