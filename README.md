@@ -16,7 +16,7 @@ To use the Minimal theme:
 
 ![I4I](assets/fonts/img/I4I.png)
 
-*I4NI* Collection | Spooky
+*I4NI* | Collection Spooky
 
 1. The ideal is a peaceful depiction of (Kodak Black) as Sweet back from Melvin than people's movie (Sweetsweet back's badassssong) I always had a thing for a black exploitation films, and I thought this was a perfect match given the way that Kodak Black grew up and how sweet back grew up in the film. They were almost seamless.
 
