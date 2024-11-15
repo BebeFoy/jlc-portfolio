@@ -30,6 +30,16 @@ To use the Minimal theme:
 
 ## Case Study Midnight Kids Academy - MDNKA
 
+Midnight Kids Academy is a vibrant, multifaceted initiative dedicated to cultivating creativity, resilience, and empowerment within a community of ambitious individuals. Grounded in the belief that inspiration often awakens when the world sleeps, the academy champions those who unlock their full potential during the twilight hours—dreamers, passionate strivers, and innovative thinkers who come alive when the world is at rest.
+
+With a mission to foster talent through immersive experiences, practical learning, and a robust support network, Midnight Kids Academy prioritizes skill-building, collaboration, and real-world application. The academy offers a wide array of programs and workshops tailored to diverse artistic and intellectual ambitions, spanning from fine arts and digital media to entrepreneurship and thought leadership.
+
+Central to the philosophy of Midnight Kids Academy is the idea that genuine growth comes from pushing boundaries and venturing into the unknown. Its curriculum defies traditional learning methods, featuring unconventional schedules, nocturnal brainstorming sessions, and mentorship by accomplished experts who themselves have succeeded through unorthodox paths.
+
+Community lies at the core of Midnight Kids Academy. This isn’t just a learning space—it’s a collective of like-minded individuals who inspire, share, and uplift one another. Participants are encouraged to step out of their comfort zones, channel their innate creativity, and transform their ideas into impactful realities.
+
+Whether fueled by the quiet solitude of midnight musings or the energetic exchange of late-night collaborations, Midnight Kids Academy serves as a guiding light for those eager to explore new frontiers. Here, creativity knows no bounds, innovation never ceases, and the night becomes a canvas for shaping the future.
+
 ### Configuration variables
 
 Minimal will respect the following variables, if set in your site's `_config.yml`:
