@@ -1,5 +1,5 @@
-title: 
-  text: "JL Christian"
+title: JL Christian
+  text: ""
   size: "24px"    # Specifies the font size of the title
   color: "#333333"  # Optional: Sets the color of the title
   font_weight: "bold"  # Optional: Sets the font weight
@@ -8,4 +8,4 @@ logo: assets/fonts/img/jlc-avatar.png
 description: Fine Artist | Art Curator
 
 google_analytics:
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
