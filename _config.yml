@@ -1,3 +1,8 @@
+font:
+  size: "9px"
+  weight: "bold"
+  style: "italic"
+
 title: JL Christian
 logo: assets/fonts/img/jlc-avatar.png
 description: Fine Artist | Art Curator
